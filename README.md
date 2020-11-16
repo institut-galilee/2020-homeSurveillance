@@ -14,5 +14,4 @@ The system is continuously proccessing its environment , and when a movement is 
 
 ### Market study 
 There are already a tons of [houmeSurveillance-like](https://www.tike-securite.fr/243-alarme-maison-sans-fil-mn209f.html?gclid=Cj0KCQiA48j9BRC-ARIsAMQu3WReq7Y6WCVNlIxuxQOOR9IWSm7pvf__gAiLMfgyl7jEtpM_jIfzBuMaAiPlEALw_wcB) device with almost the same range of prices (200€ - 1000€)  in the market however most of them doesn't provide the figerprint feature which make security more robust and reliable .
-
 Also most of these devices doesn't provide the user with remote controll (when the user is away from his property)  
