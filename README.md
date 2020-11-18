@@ -34,7 +34,7 @@ There are already a tons of [houmeSurveillance-like](https://www.tike-securite.f
 ### composants 
 
   ### composants 
-     rasberry pi 
-     500W Raspberry Pi Camera Module HD 160 ° Vidéo Grand Angle Webcam
-     DC 2.7 À 12 V Infrarouge PIR Motion Capteur Humain Détecteur Automatique Module Mini Module PIR Mini Module D'induction Du Corps Humain
-     Arduino capteur digital 
+     =>rasberry pi 
+     =>500W Raspberry Pi Camera Module HD 160 ° Vidéo Grand Angle Webcam
+     =>DC 2.7 À 12 V Infrarouge PIR Motion Capteur Humain Détecteur Automatique Module Mini Module PIR Mini Module D'induction Du Corps Humain
+     =>Arduino capteur digital 
