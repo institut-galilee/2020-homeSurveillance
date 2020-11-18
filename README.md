@@ -19,7 +19,7 @@ There are already a tons of [houmeSurveillance-like](https://www.tike-securite.f
   * VERISURE  
        Verisure, formerly Securitas Direct, is a Swedish-based company specializing in alarms with remote monitoring for individuals and small businesses. It is present in 17          countries1 in Europe and South America and has 3.3 million customers 
  
-    **Description de leur produits
+    ** Description de leur produits
 
        Once the system is connected, the remote monitoring must respond to alarm signals at all times. In the event of an alarm, it is necessary to remove the doubt, this is          compulsory according to the internal security  before notifying the police, the fire brigade or the SAMU. The remote surveillance officers can communicate with the              customer or potential intruders via the intercom in the alarm center. The company can also send a guard on the proprety
 
