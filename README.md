@@ -16,9 +16,9 @@ The system is continuously proccessing its environment , and when a movement is 
 There are already a tons of [houmeSurveillance-like](https://www.tike-securite.fr/243-alarme-maison-sans-fil-mn209f.html?gclid=Cj0KCQiA48j9BRC-ARIsAMQu3WReq7Y6WCVNlIxuxQOOR9IWSm7pvf__gAiLMfgyl7jEtpM_jIfzBuMaAiPlEALw_wcB) device with almost the same range of prices (200� - 1000�)  in the market however none of them  provide the fingerprint feature which make security more robust and reliable .
 
 #### Leading companies 
-  *VERISURE  
+  * VERISURE  
        Verisure, formerly Securitas Direct, is a Swedish-based company specializing in alarms with remote monitoring for individuals and small businesses. It is present in 17          countries1 in Europe and South America and has 3.3 million customers 
-
+ 
     **Description de leur produits
 
        Once the system is connected, the remote monitoring must respond to alarm signals at all times. In the event of an alarm, it is necessary to remove the doubt, this is          compulsory according to the internal security  before notifying the police, the fire brigade or the SAMU. The remote surveillance officers can communicate with the              customer or potential intruders via the intercom in the alarm center. The company can also send a guard on the proprety
