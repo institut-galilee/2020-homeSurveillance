@@ -3,7 +3,6 @@
 
 ### Members
   * Abdel Mounaim BOUZERIRA 
-  * Marwane GHARS
 
 ### Description 
 
